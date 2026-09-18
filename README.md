@@ -1,91 +1,82 @@
+<div align="center">
+
 👋 Hi, I'm Masid Asghar
 
-Software Engineer | Full-Stack Developer | AI/ML Enthusiast
+Software Engineer · Full-Stack Developer · AI/ML Enthusiast
 
-<p align="left">
+<p>
   <a href="mailto:masidasghar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-masidasghar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MasidAsghar0900&style=for-the-badge&color=blue" alt="Profile Views">
+  <a href="https://github.com/MasidAsghar0900">
+    <img src="https://img.shields.io/badge/GitHub-MasidAsghar0900-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MasidAsghar0900&style=for-the-badge&color=0A66C2" alt="Profile Views">
 </p>
 
-I'm a Computer Science graduate with hands-on experience in full-stack web development, React.js, NestJS, REST APIs, Python, and AI/ML.
-
-I enjoy building responsive web applications, integrating backend services, developing AI-powered functionality, and turning technical requirements into practical software solutions.
+</div>
 
 👨‍💻 About Me
 
-🎓 Computer Science graduate from National University of Modern Languages (NUML), Rawalpindi
+I am a Computer Science graduate and Software Engineer with practical experience in full-stack web development, frontend engineering, backend development, REST API integration, and Artificial Intelligence/Machine Learning.
 
-💻 Experienced in Full-Stack Web Development
+My development experience includes building responsive web applications with React.js, developing backend services with NestJS and Node.js, working with Python and AI/ML, and creating mobile applications using React Native and Firebase.
 
-⚛️ Strong interest in React.js and modern frontend development
+I enjoy turning ideas and technical requirements into reliable, user-focused software and continuously expanding my skills across modern software engineering and AI technologies.
 
-🔧 Backend experience with NestJS, Node.js, and REST APIs
+🎓 B.Sc. Computer Science — National University of Modern Languages (NUML)
 
-🐍 Programming experience with Python, JavaScript, C++, and Java
+💻 Full-Stack Development — React.js, NestJS, Node.js, REST APIs
 
-🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning
+🤖 AI/ML — Machine Learning, Deep Learning, AI Integration
 
-🧠 Final Year Project focused on AI-based Autism Spectrum Disorder prediction using structural brain MRI
+🧠 Research — AI-based Autism Spectrum Disorder prediction using brain sMRI
 
-🧬 Worked with 3D CNN concepts, volumetric MRI data, and CUDA
+📱 Mobile Development — React Native, Firebase, Firestore
 
-📱 Experience developing mobile applications with React Native and Firebase
+🐍 Programming — Python, JavaScript, C++, Java
 
-🔗 Comfortable with API integration, debugging, testing, and deployment workflows
+📍 Based in — Dubai, United Arab Emirates
 
-🌱 Continuously learning and improving software engineering skills
+🧰 Technical Skills
 
-📍 Based in Dubai, United Arab Emirates
-
-🛠️ Tech Stack
-
-Frontend Development
+🌐 Frontend & Mobile
 
 <p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff">
 </p>
 
-Backend & APIs
+⚙️ Backend & APIs
 
 <p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff">
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge">
 </p>
 
-Programming Languages
+🤖 AI / Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=fff">
+  <img src="https://img.shields.io/badge/3D%20CNN-6E40C9?style=for-the-badge">
 </p>
 
-AI / Machine Learning
+🗄️ Database, Cloud & Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge" alt="Artificial Intelligence">
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge" alt="Deep Learning">
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
-  <img src="https://img.shields.io/badge/3D_CNN-8A2BE2?style=for-the-badge" alt="3D CNN">
-</p>
-
-Database, Cloud & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000">
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=000">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff">
 </p>
 
 🚀 Featured Projects
@@ -94,137 +85,136 @@ Database, Cloud & Tools
 
 Final Year Project
 
-An AI/ML research project investigating the prediction of Autism Spectrum Disorder using structural brain MRI (sMRI) data.
+An AI/ML research project focused on investigating the prediction of Autism Spectrum Disorder using structural brain MRI (sMRI) data.
 
-Key areas:
+Key Areas
 
-Structural brain MRI processing and analysis
+Structural brain MRI preprocessing and analysis
 
-Volumetric medical image data
+Volumetric medical image processing
 
-Artificial Intelligence and Machine Learning
+Deep Learning and 3D Convolutional Neural Networks
 
-Deep Learning
-
-3D Convolutional Neural Networks
+AI/ML model development
 
 CUDA-based computing concepts
 
 React.js application interface
 
-Technologies: Python AI/ML Deep Learning 3D CNN CUDA React.js
+Tech: Python AI/ML Deep Learning 3D CNN CUDA React.js
 
 📱 Mobile Product Management Application
 
-A mobile application developed for managing product-related information using a cloud-backed architecture.
+A mobile application designed to manage product-related information through a cloud-backed architecture.
 
-Key areas:
+Key Areas
 
 Mobile application development
 
 Product information management
 
-Cloud-based data storage
+Firebase integration
 
-User-focused interface development
+Firestore data management
 
-Technologies: React Native Firebase Firestore
+Responsive and user-focused interfaces
+
+Tech: React Native Firebase Firestore
 
 🌐 Full-Stack Web Applications
 
-Developed multiple responsive web applications using modern frontend and backend technologies.
+A collection of web development projects demonstrating practical experience across frontend, backend, API integration, and AI-powered functionality.
 
-Key areas:
+Key Areas
 
-Responsive UI development
+Responsive user interfaces
 
 Reusable React components
 
 REST API integration
 
-Backend service integration
+Backend service development
 
-AI-powered application features
+AI-powered features
 
 Testing, debugging, and deployment
 
-Technologies: React.js JavaScript HTML5 CSS3 NestJS Node.js REST APIs
+Tech: React.js JavaScript NestJS Node.js REST APIs Python
 
 💼 Professional Experience
 
 Web Developer — Cortex Technology
 
-Worked on full-stack web application development and contributed across the software development lifecycle.
+Contributed to full-stack application development across the software development lifecycle.
 
-Responsibilities included:
+Developed full-stack web applications using React.js and NestJS
 
-Developing full-stack web applications using React.js and NestJS
+Built reusable and responsive frontend functionality
 
-Building reusable and responsive frontend functionality
+Integrated REST APIs with frontend applications
 
-Integrating REST APIs with frontend applications
+Implemented AI-powered features within web applications
 
-Implementing AI-powered features
+Participated in development, testing, debugging, and deployment
 
-Participating in development, testing, debugging, and deployment
+Collaborated with team members to translate requirements into practical software solutions
 
-Collaborating with team members to translate requirements into software solutions
-
-Using Git and GitHub for version control and collaborative development
+Used Git/GitHub for version control and collaborative workflows
 
 Software Development Intern — Technology Rivers
 
-Completed a software development internship with practical exposure to modern web development.
+Gained practical experience in professional software development environments.
 
-Responsibilities included:
+Developed frontend functionality using React.js
 
-Frontend development using React.js
+Built foundational backend knowledge using Node.js
 
-Backend development fundamentals using Node.js
+Explored AI concepts and their integration into software applications
 
-Exploring AI concepts and their application in software
+Practiced technical problem-solving and debugging
 
-Developing technical problem-solving skills
-
-Working under professional supervision
-
-Learning professional software development practices
+Worked under professional supervision and followed software development practices
 
 🎓 Education
 
-National University of Modern Languages (NUML), Rawalpindi, Pakistan
+National University of Modern Languages (NUML)
 
 Bachelor of Science in Computer Science
 
+📍 Rawalpindi, Pakistan
 CGPA: 3.5 / 4.00
 
-Relevant Coursework:
+Relevant Coursework
 
-Data Structures & Algorithms
-
-Database Systems
-
-Software Engineering
-
-Artificial Intelligence
-
-Computer Networks
-
-Operating Systems
+Data Structures & Algorithms · Database Systems · Software Engineering · Artificial Intelligence · Computer Networks · Operating Systems
 
 📜 Certifications
 
-Artificial Intelligence – Machine Learning & Deep Learning — NAVTCC
+Certification
 
-Microsoft AI & ML Engineering — Coursera
+Provider
 
-AI Fundamentals — Google
+Artificial Intelligence – Machine Learning & Deep Learning
 
-Full Stack Web Development — Reqdev
+NAVTCC
 
-🧩 Core Computer Science
+Microsoft AI & ML Engineering
+
+Coursera
+
+AI Fundamentals
+
+Google
+
+Full Stack Web Development
+
+Reqdev
+
+🧠 Core Computer Science
 
 Data Structures & Algorithms
+
+Object-Oriented Programming
 
 Database Systems
 
@@ -236,44 +226,50 @@ Computer Networks
 
 Operating Systems
 
-Object-Oriented Programming
-
-API Development & Integration
+REST API Development
 
 Software Testing & Debugging
 
-🎯 Current Interests
+🎯 Areas of Interest
 
-I'm particularly interested in:
+Software Engineering
+Full-Stack Web Development
+Frontend Engineering
+Backend & REST API Development
+Artificial Intelligence
+Machine Learning
+Deep Learning
+AI for Medical Imaging
+Mobile Application Development
+Cloud-Backed Applications
 
-💻 Software Engineering
+📊 GitHub Activity
 
-🌐 Full-Stack Web Development
+<div align="center">
 
-⚛️ React.js Ecosystem
+<a href="https://github.com/MasidAsghar0900">
+  <img src="https://github-readme-stats.vercel.app/api?username=MasidAsghar0900&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats">
+</a>
 
-🔧 Backend & REST API Development
+<a href="https://github.com/MasidAsghar0900">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasidAsghar0900&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top Languages">
+</a>
 
-🤖 Artificial Intelligence
-
-🧠 Machine Learning & Deep Learning
-
-🧬 AI for Medical Imaging
-
-📱 Mobile Application Development
-
-☁️ Cloud-backed Applications
+</div>
 
 🤝 Let's Connect
 
-I'm open to opportunities, collaborations, and interesting software engineering projects.
+I'm open to Software Engineering opportunities, collaborations, and interesting technology projects involving web development, AI/ML, and application development.
 
-📧 Email: masidasghar@gmail.com
+<p>
+  📧 <a href="mailto:masidasghar@gmail.com">masidasghar@gmail.com</a><br>
+  📍 Dubai, United Arab Emirates
+</p>
 
-📍 Location: Dubai, United Arab Emirates
+<div align="center">
 
-⭐ Thanks for visiting!
+💡 Build. Learn. Improve. Repeat. 🚀
 
-Feel free to explore my repositories and projects.
+Thanks for visiting my profile!
 
-Building software, learning continuously, and solving real-world problems. 
+</div>
