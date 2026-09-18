@@ -2,159 +2,144 @@
 
 👋 Hi, I'm Masid Asghar
 
-Software Engineer • Full-Stack Developer • AI/ML Enthusiast
+Software Engineer · Full-Stack Developer · AI/ML Enthusiast
 
 <p>
-  <a href="mailto:masidasghar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/MasidAsghar0900">
-    <img src="https://img.shields.io/badge/GitHub-MasidAsghar0900-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MasidAsghar0900&style=flat-square&label=Profile%20Views" alt="Profile Views">
+<a href="mailto:masidasghar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/MasidAsghar0900"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<img src="https://komarev.com/ghpvc/?username=MasidAsghar0900&style=for-the-badge&label=PROFILE+VIEWS">
 </p>
 
 </div>
 
-🧑‍💻 About Me
+🧑‍💻 PROFILE
 
-Computer Science graduate focused on full-stack development and AI/ML. I build responsive applications, REST APIs, AI-powered features, and practical software solutions.
+Computer Science graduate building full-stack applications and AI-powered solutions with a focus on clean interfaces, reliable APIs, and practical software engineering.
 
-🎓 B.Sc. Computer Science — NUML | CGPA 3.5/4.0
+🎓 Education
 
-💼 Web Developer — Cortex Technology
+💼 Experience
 
-🧑‍💻 Software Development Intern — Technology Rivers
+🤖 Focus
 
-🤖 AI/ML Research — Brain sMRI & Autism Spectrum Disorder prediction
+B.Sc. Computer Science
 
-⚛️ Frontend — React.js, React Native, JavaScript
+Web Developer
 
-⚙️ Backend — NestJS, Node.js, REST APIs
+AI / ML
 
-🐍 Programming — Python, C++, Java
+NUML · CGPA 3.5/4.0
 
-📍 Dubai, UAE
+Software Development Intern
 
-⚡ Tech Stack
+Medical Imaging
+
+📍 Dubai, United Arab Emirates
+
+⚡ TECH STACK
 
 <div align="center">
 
 Frontend
 
-
+<img src="https://skillicons.dev/icons?i=react,js,html,css">
 
 Backend & Programming
 
-
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,cpp,java">
 
 AI / ML
 
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow">
 
+Cloud & Tools
 
-Database & Tools
-
-
+<img src="https://skillicons.dev/icons?i=firebase,git,github">
 
 </div>
 
-<p align="center">
-  <b>AI/ML</b> · Machine Learning · Deep Learning · 3D CNN · CUDA · Medical Imaging
-</p>
+AI/ML: Machine Learning · Deep Learning · 3D CNN · CUDA · Medical Imaging
+Development: REST APIs · Responsive UI · API Integration · Testing · Debugging
 
-🚀 Featured Projects
+🚀 SELECTED PROJECTS
 
-Project
+🧠 ASD Prediction Using Brain sMRI
 
-Focus
+AI/ML research project using structural brain MRI and deep-learning concepts for Autism Spectrum Disorder prediction.
 
-Stack
-
-🧠 ASD Prediction using Brain sMRI
-
-AI-based prediction using volumetric MRI & 3D CNN
-
-Python AI/ML 3D CNN CUDA React.js
+Python AI/ML Deep Learning 3D CNN CUDA React.js
 
 📱 Mobile Product Management
 
-Cloud-backed product management application
+Cloud-backed mobile application for managing product information.
 
 React Native Firebase Firestore
 
 🌐 Full-Stack Web Applications
 
-Responsive apps, APIs & AI-powered features
+Responsive applications combining modern frontend development, backend services, REST APIs, and AI-powered functionality.
 
-React.js NestJS Node.js REST APIs
+React.js NestJS Node.js REST APIs Python
 
-💼 Experience
+💼 EXPERIENCE
 
-Web Developer — Cortex Technology
+Web Developer · Cortex Technology
 
-Full-stack web applications, React.js, NestJS, REST APIs, AI integration, testing, debugging, deployment & Git/GitHub.
+Full-stack development with React.js and NestJS, REST API integration, AI-powered features, testing, debugging, deployment, and Git/GitHub workflows.
 
-Software Development Intern — Technology Rivers
+Software Development Intern · Technology Rivers
 
-React.js frontend development, Node.js fundamentals, AI concepts, debugging and professional software development practices.
+React.js frontend development, Node.js fundamentals, AI concepts, debugging, and professional software-development practices.
 
-🎓 Education & Certifications
+🎓 EDUCATION
 
 National University of Modern Languages (NUML)
-Bachelor of Science in Computer Science • CGPA: 3.5/4.0
+B.Sc. Computer Science · CGPA 3.5 / 4.00
 
-Data Structures & Algorithms · Database Systems · Software Engineering · AI · Computer Networks · Operating Systems
+Data Structures & Algorithms · Database Systems · Software Engineering
+Artificial Intelligence · Computer Networks · Operating Systems
 
-Certifications
+🏅 CERTIFICATIONS
 
-🏅 AI – Machine Learning & Deep Learning — NAVTCC
-🏅 Microsoft AI & ML Engineering — Coursera
-🏅 AI Fundamentals — Google
-🏅 Full Stack Web Development — Reqdev
+Artificial Intelligence – Machine Learning & Deep Learning · NAVTCC
 
-📊 GitHub Analytics
+Microsoft AI & ML Engineering · Coursera
 
-<div align="center">
+AI Fundamentals · Google
 
-<a href="https://github.com/MasidAsghar0900">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MasidAsghar0900&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats">
-</a>
+Full Stack Web Development · Reqdev
 
-<a href="https://github.com/MasidAsghar0900">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasidAsghar0900&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
-</a>
-
-</div>
+📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MasidAsghar0900&hide_border=true" alt="GitHub Streak">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MasidAsghar0900&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasidAsghar0900&layout=compact&hide_border=true&langs_count=8">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=MasidAsghar0900&hide_border=true">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MasidAsghar0900&hide_border=true&area=true">
 
 </div>
 
-<div align="center">
+🎯 CURRENT FOCUS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MasidAsghar0900&hide_border=true&area=true" alt="GitHub Activity Graph">
+Software Engineering · Full-Stack Development · React.js · NestJS
+Artificial Intelligence · Machine Learning · Deep Learning · Medical Imaging
+React Native · Firebase · REST APIs
 
-</div>
-
-🎯 What I Work On
-
-<div align="center">
-
-Software Engineering • Full-Stack Development • React.js • REST APIs
-Artificial Intelligence • Machine Learning • Deep Learning • Medical Imaging
-React Native • Firebase • Cloud Applications
-
-</div>
-
-🤝 Let's Connect
+🤝 CONNECT
 
 <div align="center">
 
 📧 masidasghar@gmail.com
 📍 Dubai, United Arab Emirates
 
-🚀 Build • Learn • Create • Improve
+Build • Learn • Create • Improve 🚀
 
 </div>
